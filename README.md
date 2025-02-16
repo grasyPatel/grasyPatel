@@ -4,6 +4,10 @@
   <a href="https://leetcode.com/gracepatel91/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile">
   </a>
+  <a>
+    <img  src="https://img.shields.io/badge/Pull%20Shark-2X-blue?style=for-the-badge&logo=github" alt="Pull Shark">
+
+  </a>
   <a href="https://github.com/grasyPatel">
     <img src="https://img.shields.io/github/followers/grasyPatel?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
   </a>
