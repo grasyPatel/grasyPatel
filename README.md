@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 - 💬 Ask me about: **JAVA,DSA**
 - 📫 How to reach me: **gracepatel91@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **⚡ Fun Fact: "I write code to fix bugs… which were caused by my code. The cycle continues!" 🔁🐞**
+- ⚡ Fun fact: **"I write code to fix bugs… which were caused by my code. The cycle continues!" 🔁🐞**
 
 ---
 
