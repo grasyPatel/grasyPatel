@@ -1,4 +1,4 @@
-# Hi there, I'm Grasy Patel! 👋
+# Hi there, I'm Grace Patel! 👋
 
 <p align="center">
   <a href="https://leetcode.com/gracepatel91/">
