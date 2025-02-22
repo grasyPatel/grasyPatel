@@ -50,10 +50,10 @@ Here are some of the technologies and tools I work with:
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
-
-1. **[🎮 Game Collection](https://github.com/grasyPatel/FunProjects)** - A collection of fun and interactive games built using HTML, CSS, and JavaScript, showcasing various        aspects of game development.
-2. **[🚗 Vehicle Rental System](https://github.com/grasyPatel/Vehicle-Rental-System-OOPS)** - A Java-based application demonstrating OOP concepts (Inheritance, Abstraction, Encapsulation) for renting vehicles, managing bookings, and calculating rental costs..
-3. **[🛒 E-commerce Platform](https://github.com/grasyPatel/ecommerce-platform-JAVAOOPS)** - A Java console app simulating an e-commerce system with features like buyer/seller roles, product management, order history, and cart services.
+1. **[🌍 Travel Story](https://github.com/grasyPatel/Travel-Story)** - A MERN stack web platform to share and explore travel experiences.
+2. **[🎮 Game Collection](https://github.com/grasyPatel/FunProjects)** - A collection of fun and interactive games built using HTML, CSS, and JavaScript, showcasing various        aspects of game development.
+3. **[🚗 Vehicle Rental System](https://github.com/grasyPatel/Vehicle-Rental-System-OOPS)** - A Java-based application demonstrating OOP concepts (Inheritance, Abstraction, Encapsulation) for renting vehicles, managing bookings, and calculating rental costs..
+4. **[🛒 E-commerce Platform](https://github.com/grasyPatel/ecommerce-platform-JAVAOOPS)** - A Java console app simulating an e-commerce system with features like buyer/seller roles, product management, order history, and cart services.
 
 Feel free to check them out and let me know your thoughts!
 
